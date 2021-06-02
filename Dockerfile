@@ -1,4 +1,4 @@
-FROM byteshiva:latest
+FROM byteshiva/python3_twint:latest
 
 LABEL version="1.0.0"
 
